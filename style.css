@@ -1,0 +1,69 @@
+
+body {
+    background-color: lightblue;
+}
+h1 {
+    text-align: center;
+}
+
+#bold {
+    font-weight: bold;
+}
+
+#start {
+    margin-bottom: 10px;
+}
+
+#clock {
+    margin-left: 75%;
+}
+
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+  }
+
+.regularButton {
+    border-radius: 8px;
+    background-color: lightsteelblue;
+    font-size: 25px;
+    width: 90%;
+    align-items: center;
+}
+
+.regularButton:hover {
+    border-radius: 8px;
+    background-color: orange;
+    font-size: 25px;
+    width: 90%;
+    align-items: center;
+}
+
+.formButton {
+    border-radius: 8px;
+    background-color: orange;
+    font-size: 25px;
+    width: 90%;
+}
+
+.formButton:hover {
+    background-color: lightsteelblue;
+}
+
+#resultText {
+    font-size: 20px;
+}
+
+.restartBtn {
+    display: block;
+    margin-left: 0 auto;
+}
+
+#q1 {
+    text-align: center;
+}
+
+
+
